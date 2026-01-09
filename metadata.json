@@ -1,0 +1,9 @@
+{
+  "name": "Smart Voice Navigation System",
+  "description": "An AI-powered accessible navigation assistant for the blind and visually impaired, featuring real-time obstacle detection, voice-controlled navigation, and emergency SOS services.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
